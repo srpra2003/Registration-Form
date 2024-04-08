@@ -1,2 +1,2 @@
 # Registration-Form
-SImple Registration Form
+Simple Registration Form
